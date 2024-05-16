@@ -1,5 +1,16 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolucks&layout=compact)
+# I'm Breno, Software Developer
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=brenolucks&hide_border=true)
+<a href="https://www.linkedin.com/in/breno-lucas/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenolucks&show_icons=true&count_private=true&theme=dracula)
+<img height="200em" width=400px src="https://github-readme-stats-eight-theta.vercel.app/api?username=brenolucks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+<img height="200em" width=400px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brenolucks&layout=compact&langs_count=8&theme=dark"/>
+
+
+
+
+ 
+
+
+
+ 
+   
